@@ -2,7 +2,7 @@
 Resizer for Eternal Card Game 
 
 
-Jankiest of janky resizer for Eternal Card Game, the game pretty much supports all kinds of different resolutions but doesn't let you pick them from their drop-down list.
+Jankiest of janky resizer for Eternal Card Game, the game pretty much supports all kinds of different resolutions but doesn't always let you pick them from their drop-down list.
 
 If you have AutoHotkey installed you can run the .ahk script, else you can use the compiled version .exe
 
