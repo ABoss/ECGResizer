@@ -2,7 +2,7 @@
 Resizer for Eternal Card Game 
 
 
-Janky of jankiest resizer for Eternal Card Game, the game pretty much supports all kinds of different resolutions but doesn't let you pick them from their drop-down list.
+Jankiest of janky resizer for Eternal Card Game, the game pretty much supports all kinds of different resolutions but doesn't let you pick them from their drop-down list.
 
 # How to  
 - Start Eternal and the resizer  
